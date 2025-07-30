@@ -145,5 +145,7 @@ Técnico superior en programación – UTN - Córdoba - Argentina | Año 2002.
 - IDOC’s / JOB’s.
 - Gestion de Tickets: Herramientas como Service Now, Solman, Remedy.
 
-## 💼Habilidades blandas: Liderazgo, resolución de problemas, Trabajo en equipo, adaptabilidad, Gestión de SLA.
-## 💼Idiomas: Español (nativo), Inglés Técnico.
+## 💼Habilidades blandas: 
+Liderazgo, resolución de problemas, Trabajo en equipo, adaptabilidad, Gestión de SLA.
+## 💼Idiomas:
+Español (nativo), Inglés Técnico.
