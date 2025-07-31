@@ -11,7 +11,7 @@
 
 ## 🏆 Sobre mí
 
-Soy **consultor SAP MM Senior** Consultor Senior SAP MM con sólida experiencia en **soporte, mejora continua e implementación de procesos logísticos en entornos SAP R/3, SAP ECC y SAP S/4HANA**. Más de 12 años de experiencia acompañando a empresas de distintas industrias en la optimización de sus procesos de compras, gestión de inventario e integración en los distintos módulos y sistemas externos.
+Soy **consultor SAP MM Senior** con sólida experiencia en **soporte, mejora continua e implementación de procesos logísticos en entornos SAP R/3, SAP ECC y SAP S/4HANA**. Más de 12 años de experiencia acompañando a empresas de distintas industrias en la optimización de sus procesos de compras, gestión de inventario e integración en los distintos módulos y sistemas externos.
 Instructor de BOOTCAMP para SAP MM.
 Especializado en el ciclo Procure to Pay (P2P), configuración funcional end-to-end, documentación funcional/técnica, pruebas unitarias e integrales UAT, soporte correctivo/evolutivo y atención de tickets.
 Con experiencia en SAP Fiori, Flexible Workflow, IDocs, JOB's e integraciones.
