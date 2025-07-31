@@ -63,9 +63,8 @@ Me destaco por:
 
 | Categoría                | Habilidades                                                                          |
 |------------------------- |--------------------------------------------------------------------------------------| 
-| **Skills funcionales/Tecnicos** | 
-|    - SAP R3; SAP ECC; SAP S/4HANA; SAP FIORI.
-|    - Procesos: Procure to Pay (P2P) | Logistics | Supply Chain.
+| **Skills funcionales/Tecnicos** |  - SAP R3; SAP ECC; SAP S/4HANA; SAP FIORI.
+                                     - Procesos: Procure to Pay (P2P) | Logistics | Supply Chain.
 |    - Mantenimientos Correctivos.
 |    - Requerimientos evolutivos en todo su ciclo de vida.
 |    - Soporte a usuarios claves y finales.
