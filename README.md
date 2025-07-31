@@ -19,11 +19,11 @@ Con experiencia en SAP Fiori, Flexible Workflow, IDocs, JOB's e integraciones.
 Liderazgo en equipos de soporte, aportando una visión funcional clara y enfocada en la eficiencia operativa comprometido con la mejora continua, la satisfacción del cliente y el cumplimiento de objetivos del negocio.
 
 Me destaco por:  
-- 💡 **Ciclo Procure-to-Pay (P2P)**
-- 📝 **Documentación funcional/técnica y pruebas UAT**  
-- 🛠️ **Soporte correctivo/evolutivo, mejora continua y proyectos**  
-- 🌐 **SAP R/3, SAP ECC, SAP S/4HANA, SAP Fiori**  
-- 🎯 **Liderazgo en equipos**
+- 💡 **Ciclo Procure-to-Pay (P2P)**.
+- 📝 **Documentación funcional/técnica y pruebas UAT**.  
+- 🛠️ **Soporte correctivo/evolutivo, mejora continua y proyectos**.  
+- 🌐 **SAP R/3, SAP ECC, SAP S/4HANA, SAP Fiori**.
+- 🎯 **Liderazgo en equipos**.
 
 ---
 
