@@ -2,10 +2,10 @@
 
 **Consultor SAP MM Senior** | +12 años de experiencia |
 
-💼 Especialista en **SAP R/3, SAP ECC y SAP S/4HANA**  
-🔹 Optimización de **procesos logísticos** (Compras, Inventario e Integraciónes)  
-🔹 Soporte, mejora continua e implementaciónes **end-to-end**  
-🔹 Enfoque en **eficiencia operativa y satisfacción del cliente**  
+💼 Especialista en **SAP R/3, SAP ECC y SAP S/4HANA.**  
+🔹 Optimización de **procesos logísticos** (Compras, Inventario e Integraciónes).  
+🔹 Soporte, mejora continua e implementaciónes **end-to-end**.  
+🔹 Enfoque en **eficiencia operativa y satisfacción del cliente**.  
 
 ---
 
