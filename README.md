@@ -63,10 +63,12 @@ Me destaco por:
 
 | Categoría                | Habilidades                                                                                             |
 |------------------------- |---------------------------------------------------------------------------------------------------------| 
-| **Skills funcionales/Tecnicos** | SAP R3; SAP ECC; SAP S/4HANA; SAP FIORI; Procesos: Procure to Pay (P2P); Logistics; Supply Chain.|
+| **Skills funcionales/Tecnicos** | SAP R3; SAP ECC; SAP S/4HANA; SAP FIORI.                                                         |
+||Procesos: Procure to Pay (P2P); Logistics; Supply Chain.                                                                           |
 ||Mantenimientos Correctivos; Requerimientos evolutivos en todo su ciclo de vida; Soporte a usuarios claves y finales.               |
-||Configuración del Módulo MM en SAP R3, SAP ECC, SAP S/4HANA y FIORI; Integración con otros Módulos PP/PM/QM/FI/SD.                 |
-||WorkFlow Flexible; MRP; Integración con interfaces externas EDI, CPI; IDOC’s / JOB’s.                                              |
+||Configuración del Módulo MM en SAP R3, SAP ECC, SAP S/4HANA y FIORI.                                                               |
+||Integración con otros Módulos PP/PM/QM/FI/SD.                                                                                      |
+||WorkFlow Flexible; MRP; Integración con interfaces externas EDI, CPI.                                                              |
 ||Gestion de Tickets: Herramientas como Service Now, Solman, Remedy.                                                                 | 
 | **Habilidades blandas**  | Liderazgo, resolución de problemas, Trabajo en equipo, adaptabilidad, Gestión de SLA.                   |
 | **Idiomas**              | Español (nativo), Inglés Técnico                                                                        |
